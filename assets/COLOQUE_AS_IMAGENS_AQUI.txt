@@ -1,1 +1,0 @@
-Substitua os arquivos esperados listados no README.md pelas fotos reais da VS Automóveis.
